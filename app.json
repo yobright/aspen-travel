@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "test-maagot",
-    "slug": "test-maagot",
+    "slug": "travel-aspen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,21 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e67931f5-67ad-42c7-9cc6-cd2f51246d55"
+      }
+    },
+    "owner": "kasskoo",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e67931f5-67ad-42c7-9cc6-cd2f51246d55"
     }
   }
 }

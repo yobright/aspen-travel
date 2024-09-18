@@ -23,7 +23,6 @@ const PlaceScreen = () => {
                     source={images.coeursalpes} style={styles.placeImage}
                 />
 
-                {/* Content */}
                 <View style={styles.content}>
                     <Text style={styles.placeTitle}>Coeurdes Alpes</Text>
                     <Text style={styles.rating}>4.5 (355 Reviews)</Text>
